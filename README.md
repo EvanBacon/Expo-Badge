@@ -43,8 +43,6 @@ Need to design which badge would be the one that users could put in their readme
 
 [![made with expo](https://img.shields.io/badge/made%20with%20Expo-4630EB.svg?style=flat&logo=EXPO&labelColor=f3f3f3&logoWidth=20&logoColor=000)](https://github.com/expo/expo)
 
-[![made with expo](https://img.shields.io/badge/Made%20with%20Expo-000.svg?style=flat&logo=EXPO&labelColor=f3f3f3&logoWidth=20&logoColor=000)](https://github.com/expo/expo)
-
 [![made with expo](https://img.shields.io/badge/MADE%20WITH%20EXPO-000.svg?style=for-the-badge&logo=EXPO&labelColor=4630EB&logoWidth=20)](https://github.com/expo/expo)
 
 [![made with expo](https://img.shields.io/badge/MADE%20WITH%20EXPO-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoWidth=20)](https://github.com/expo/expo)
@@ -52,10 +50,6 @@ Need to design which badge would be the one that users could put in their readme
 [![made with expo](https://img.shields.io/badge/MADE%20WITH%20EXPO-4630EB.svg?style=for-the-badge&logo=EXPO&logoWidth=20&logoColor=fff&labelColor=4630EB)](https://github.com/expo/expo)
 
 [![made with expo](https://img.shields.io/badge/MADE%20WITH%20EXPO-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=fff&logoWidth=20&logoColor=000)](https://github.com/expo/expo)
-
-[![made with expo](https://img.shields.io/badge/MADE%20WITH%20EXPO-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=f3f3f3&logoWidth=20&logoColor=000)](https://github.com/expo/expo)
-
-[![made with expo](https://img.shields.io/badge/MADE%20WITH%20EXPO-000.svg?style=for-the-badge&logo=EXPO&labelColor=f3f3f3&logoWidth=20&logoColor=000)](https://github.com/expo/expo)
 
 [![made with expo](https://img.shields.io/badge/made%20with%20Expo-000.svg?logo=EXPO&labelColor=fff&logoWidth=20&logoColor=000)](https://github.com/expo/expo)
 

@@ -24,8 +24,6 @@ Need to design which badge would be the one that users could put in their readme
 
 Snack could produce a badge that you could add to your Repo
 
-[![run in expo snack](https://img.shields.io/badge/RUN%20IN%20SNACK-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=f3f3f3&logoColor=000&logoWidth=20)](https://snack.expo.io)
-
 [![run in expo snack](https://img.shields.io/badge/RUN%20IN%20SNACK-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://snack.expo.io)
 
 [![run in expo snack](https://img.shields.io/badge/Run%20in%20Snack-4630EB.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://snack.expo.io)

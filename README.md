@@ -47,6 +47,9 @@ might be cool to let users know which platforms your app or library supports
 [![supports iOS](https://img.shields.io/badge/iOS-4630EB.svg?style=for-the-badge&logo=APPLE&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
 [![supports Android](https://img.shields.io/badge/Android-4630EB.svg?style=for-the-badge&logo=ANDROID&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
 [![supports web](https://img.shields.io/badge/Web-4630EB.svg?style=for-the-badge&logo=GOOGLE-CHROME&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
+[![supports Windows](https://img.shields.io/badge/Windows-4630EB.svg?style=for-the-badge&logo=WINDOWS&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
+[![supports Linux](https://img.shields.io/badge/Linux-4630EB.svg?style=for-the-badge&logo=LINUX&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
+[![supports OSX](https://img.shields.io/badge/OSX-4630EB.svg?style=for-the-badge&logo=APPLE&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
 
 [![supports iOS](https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff)](https://github.com/expo/expo)
 [![supports Android](https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff)](https://github.com/expo/expo)

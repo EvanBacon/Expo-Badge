@@ -10,9 +10,9 @@ Need to design which badge would be the one that users could put in their readme
 
 #### Black
 
-[![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://github.com/expo/expo)
+[![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat&logo=EXPO&labelColor=ffffff&logoColor=000)](https://github.com/expo/expo)
 
-[![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://github.com/expo/expo)
+[![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=ffffff&logoColor=000)](https://github.com/expo/expo)
 
 #### Color
 
@@ -24,9 +24,9 @@ Need to design which badge would be the one that users could put in their readme
 
 Snack could produce a badge that you could add to your Repo
 
-[![run in expo snack](https://img.shields.io/badge/RUN%20IN%20SNACK-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://snack.expo.io)
+[![run in expo snack](https://img.shields.io/badge/RUN%20IN%20SNACK-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=FFF&logoColor=000)](https://snack.expo.io)
 
-[![run in expo snack](https://img.shields.io/badge/Run%20in%20Snack-4630EB.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://snack.expo.io)
+[![run in expo snack](https://img.shields.io/badge/Run%20in%20Snack-4630EB.svg?style=flat-square&logo=EXPO&labelColor=FFF&logoColor=000)](https://snack.expo.io)
 
 [![run in expo snack](https://img.shields.io/badge/SNACK-TRY%20NOW-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=FFF)](https://snack.expo.io)
 

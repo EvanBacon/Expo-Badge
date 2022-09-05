@@ -2,85 +2,64 @@
 
 A design study for Expo badges
 
-## Dependency
+<a href="https://docs.expo.dev/eas">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Build-fff.svg?style=for-the-badge&logo=EXPO&labelColor=fff&logoColor=000">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://img.shields.io/badge/Build-000.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=FFF">
+</picture>
+</a>
 
-Need to design which badge would be the one that users could put in their readme
 
-### White
+## Demo links
 
-#### Black
+The JavaScript bundle can be run in the [Expo Go](https://expo.dev/expo-go) app.
 
-[![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat&logo=EXPO&labelColor=ffffff&logoColor=000)](https://github.com/expo/expo)
+[![Run in Expo Go](https://img.shields.io/badge/Run%20in%20Expo%20Go-4285F4.svg?style=flat-square&logo=EXPO&labelColor=4285F4&logoColor=fff)](https://expo.dev/@bacon/pillar-valley)
 
-[![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=ffffff&logoColor=000)](https://github.com/expo/expo)
+[![](https://img.shields.io/badge/Play%20Online-4285F4.svg?style=flat-square&logo=Google-Chrome&labelColor=4285F4&logoColor=fff)](https://pillarvalley.netlify.app/)
 
-#### Color
+### App Stores
 
-[![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-4630EB.svg?style=flat&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://github.com/expo/expo)
 
-[![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-4630EB.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://github.com/expo/expo)
+[![](https://img.shields.io/badge/Google%20Play-4285F4.svg?style=flat-square&logo=Google-Play&labelColor=4285F4&logoColor=fff)](https://play.google.com/store/apps/details?id=com.evanbacon.pillarvalley)
+
+[![](https://img.shields.io/badge/App%20Store-4285F4.svg?style=flat-square&logo=App-Store&labelColor=4285F4&logoColor=fff)](https://itunes.apple.com/us/app/pillar-valley/id1336398804)
+
+<!-- https://expo.dev/@bacon/pillar-valley -->
+
+## Expo Application Services
+
+<!-- TODO: Need github bot link -->
+
+[![Build with EAS](https://img.shields.io/badge/Build-3275E7.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=FFF)](https://docs.expo.dev/build/introduction/)
+
+[![](https://img.shields.io/badge/eas%20submit%20--p%20android-3275E7.svg?style=flat-square&logo=Google-Play&labelColor=3275E7&logoColor=fff)](https://expo.dev/expo-go)
+
+[![](https://img.shields.io/badge/eas%20submit%20--p%20ios-3275E7.svg?style=flat-square&logo=App-Store&labelColor=3275E7&logoColor=fff)](https://expo.dev/expo-go)
+
+[![](https://img.shields.io/badge/Deploy%20to%20App%20Store-000.svg?style=flat-square&logo=App-Store&labelColor=ffffff&logoColor=000)](https://expo.dev/expo-go)
 
 ## Demo
 
 Snack could produce a badge that you could add to your Repo
 
-[![run in expo snack](https://img.shields.io/badge/RUN%20IN%20SNACK-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=FFF&logoColor=000)](https://snack.expo.io)
+[![Develop in Expo Snack](https://img.shields.io/badge/Snack-fff.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=FFF)](https://snack.expo.io)
 
-[![run in expo snack](https://img.shields.io/badge/Run%20in%20Snack-4630EB.svg?style=flat-square&logo=EXPO&labelColor=FFF&logoColor=000)](https://snack.expo.io)
+[![Develop in Expo Snack](https://img.shields.io/badge/DEVELOP%20IN%20SNACK-000.svg?style=for-the-badge&logo=EXPO&labelColor=FFF&logoColor=000)](https://snack.expo.io)
 
-[![run in expo snack](https://img.shields.io/badge/SNACK-TRY%20NOW-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=FFF)](https://snack.expo.io)
+[![Develop in Expo Snack](https://img.shields.io/badge/Develop%20in%20Snack-000.svg?style=flat-square&logo=EXPO&labelColor=FFF&logoColor=000)](https://snack.expo.io)
 
-[![run in expo snack](https://img.shields.io/badge/snack-Try%20now-4630EB.svg?style=flat-square&logo=EXPO&labelColor=000&logoColor=FFF&logoWidth=20)](https://snack.expo.io)
 
-## Platform support
+## Platforms
 
-might be cool to let users know which platforms your app or library supports
+[![supports iOS](https://img.shields.io/badge/iOS-999999.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff)](https://github.com/expo/expo)
+[![supports Android](https://img.shields.io/badge/Android-A4C639.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff)](https://github.com/expo/expo)
+[![supports web](https://img.shields.io/badge/Web-4285F4.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff)](https://github.com/expo/expo)
 
-[![supports iOS and Android](https://img.shields.io/badge/Platforms-Native-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
-
-[![supports web](https://img.shields.io/badge/Platforms-Web-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
-
-[![supports all expo platforms iOS, Android, and web](https://img.shields.io/badge/Platforms-Universal-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
-
-### Supports
-
-[![supports iOS](https://img.shields.io/badge/iOS-4630EB.svg?style=for-the-badge&logo=APPLE&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
-[![supports Android](https://img.shields.io/badge/Android-4630EB.svg?style=for-the-badge&logo=ANDROID&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
-[![supports web](https://img.shields.io/badge/Web-4630EB.svg?style=for-the-badge&logo=GOOGLE-CHROME&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
-[![supports Windows](https://img.shields.io/badge/Windows-4630EB.svg?style=for-the-badge&logo=WINDOWS&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
-[![supports Linux](https://img.shields.io/badge/Linux-4630EB.svg?style=for-the-badge&logo=LINUX&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
-[![supports OSX](https://img.shields.io/badge/OSX-4630EB.svg?style=for-the-badge&logo=APPLE&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
-
-[![supports iOS](https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff)](https://github.com/expo/expo)
-[![supports Android](https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff)](https://github.com/expo/expo)
-[![supports web](https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff)](https://github.com/expo/expo)
 
 
 ```
-[![supports iOS](https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff)](https://itunes.apple.com/app/apple-store/id982107779)
-[![supports Android](https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff)](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www)
-[![supports web](https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff)](https://docs.expo.io/workflow/web/)
+[![supports iOS](https://img.shields.io/badge/iOS-999999.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff)](https://github.com/expo/expo)
+[![supports Android](https://img.shields.io/badge/Android-A4C639.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff)](https://github.com/expo/expo)
+[![supports web](https://img.shields.io/badge/Web-4285F4.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff)](https://github.com/expo/expo)
 ```
-
-#### Support as HTML
-
-<p>
-<img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
-<img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
-<img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
-</p>
-
-
-```html
-<p>
-  <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
-  <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
-  <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
-</p>
-```
-
-## Sponsored
-
-For projects that Expo sponsors to have created
-
-[![sponsored by expo](https://img.shields.io/badge/Sponsored_by-Expo-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=fff)](https://github.com/expo/expo)

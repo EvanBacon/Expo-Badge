@@ -2,6 +2,8 @@
 
 A design study for Expo badges
 
+**Supports appearance**
+
 <a href="https://docs.expo.dev/eas">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Build-fff.svg?style=for-the-badge&logo=EXPO&labelColor=fff&logoColor=000">

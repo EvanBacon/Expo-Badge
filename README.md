@@ -7,7 +7,7 @@ A design study for Expo badges
 <a href="https://docs.expo.dev/eas">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Build-fff.svg?style=for-the-badge&logo=EXPO&labelColor=fff&logoColor=000">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://img.shields.io/badge/Build-000.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=FFF">
+  <img alt="Build with EAS" src="https://img.shields.io/badge/Build-000.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=FFF">
 </picture>
 </a>
 
